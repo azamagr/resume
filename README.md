@@ -2,7 +2,7 @@
 
 This repository contains my resume for software and web development internship opportunities.
 
-📄 **[View Resume (PDF)](https://github.com/azamagr/resume/main/Azam_Resume.pdf)**  
+📄 **[View Resume (PDF)](https://github.com/azamagr/resume/Azam_Resume.pdf)**  
 📄 **[Click here to view/download my resume (.docx)](./Azam_Resume.docx)**
 
 ## 📫 Contact Information
