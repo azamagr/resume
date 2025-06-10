@@ -2,7 +2,7 @@
 
 This repository contains my resume for software and web development internship opportunities.
 
-📄 **[Click here to view/download my resume (.docx)](./Muhammad_Azam_Resume.docx)**
+📄 **[Click here to view/download my resume (.docx)](./Azam_Resume.docx)**
 
 ## 📫 Contact Information
 
